@@ -23,7 +23,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'http://gettiger.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Blake Tsuzaki' => 'dtsuzaki@scu.edu' }
-  s.source           = { :git => 'https://github.com/TigerID/TigerKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/TigerID/TigerKit.git', :tag => '0.1.0' }
 
   s.ios.deployment_target = '8.0'
 
