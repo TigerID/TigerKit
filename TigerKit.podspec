@@ -20,7 +20,6 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
-  s.url              = 'https://github.com/TigerID/TigerKit'
   s.homepage         = 'http://gettiger.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Blake Tsuzaki' => 'dtsuzaki@scu.edu' }
