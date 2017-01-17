@@ -22,7 +22,7 @@ pod "TigerKit"
 
 ## Author
 
-Blake Tsuzaki, dtsuzaki@scu.edu
+Blake Tsuzaki
 
 ## License
 
