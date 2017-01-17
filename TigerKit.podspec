@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TigerKit'
-  s.version          = ‘0.0.1’
-  s.summary          = 'Tiger Core Framework for iOS.’
+  s.version          = '0.1.0'
+  s.summary          = 'Tiger Core Framework for iOS.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
   s.url              = 'https://github.com/TigerID/TigerKit'
-  s.homepage         = ‘http://gettiger.com’
+  s.homepage         = 'http://gettiger.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Blake Tsuzaki' => 'dtsuzaki@scu.edu' }
   s.source           = { :git => 'https://github.com/TigerID/TigerKit.git', :tag => s.version.to_s }
@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'TigerKit/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'TigerKit' => ['TigerKit/Assets/*.png']
   # }
